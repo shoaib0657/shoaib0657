@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib0657&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib0657" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib0657&label=Profile%20Visits&color=blue&style=for-the-badge" alt="shoaib0657" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib0657&show_icons=true&locale=en&layout=compact" /></p>
 
