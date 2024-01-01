@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there 👋, I'm Shoaib </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib0657&label=Profile%20Visits&color=blue&style=for-the-badge" alt="shoaib0657" /> </p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 - 🌱 I’m currently learning **MEAN (MongoDB, Express, Angular, and Node.js) stack**.
 
 #### 📫 Connect with me:
