@@ -1,13 +1,20 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib0657&label=Profile%20Visits&color=blue&style=for-the-badge" alt="shoaib0657" /> </p>
 
+#### 📫 Connect with me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohammad-shoaib-ansari-5830b1228/)  &nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35" width="3.5%"/>](https://auth.geeksforgeeks.org/user/mdshoaibansari0307) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/shoaib_0657/)  &nbsp; <a href="mailto:mdshoaibansari0307@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib0657&show_icons=true&locale=en&layout=compact" /></p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/shoaib0657/foodmine" title="FoodMine"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=foodmine"></a>
-  <a align="right" href="https://github.com/shoaib0657/MyShell" title="My Shell"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=MyShell"></a>
+  <a align="left" href="https://github.com/shoaib0657/foodmine" title="FoodMine">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=foodmine">
+  </a>
+  <a align="right" href="https://github.com/shoaib0657/MyShell" title="My Shell">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=MyShell">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
