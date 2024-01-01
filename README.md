@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Shoaib </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib0657&label=Profile%20Visits&color=blue&style=for-the-badge" alt="shoaib0657" /> </p>
+
+- 🌱 I’m currently learning **MEAN (MongoDB, Express, Angular, and Node.js) stack**.
 
 #### 📫 Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohammad-shoaib-ansari-5830b1228/)  &nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35" width="3.5%"/>](https://auth.geeksforgeeks.org/user/mdshoaibansari0307) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/shoaib_0657/)  &nbsp; <a href="mailto:mdshoaibansari0307@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> 
