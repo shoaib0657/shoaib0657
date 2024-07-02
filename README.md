@@ -24,8 +24,8 @@
   <a align="left" href="https://github.com/shoaib0657/foodmine" title="FoodMine">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=foodmine">
   </a>
-  <a align="right" href="https://github.com/shoaib0657/MyShell" title="My Shell">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=MyShell">
+  <a align="right" href="https://github.com/shoaib0657/code-collab-angular" title="Code Collab">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib0657&repo=code-collab-angular">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
