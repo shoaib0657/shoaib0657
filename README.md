@@ -18,6 +18,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib0657&show_icons=true&locale=en&layout=compact" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib0657&show_icons=true&locale=en" alt="omdharme" /></p>
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
